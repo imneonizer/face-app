@@ -15,7 +15,7 @@ args = vars(ap.parse_args())
 
 # generating augmented images for training
 # from single image per person
-if args["augment"]:
+if not args["augment"] == Flase:
     augment_faces(dataset_dir='dataset', amount=args["augment"])
 
 # grab the paths to the input images in our dataset
