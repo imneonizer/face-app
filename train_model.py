@@ -9,8 +9,6 @@ import os
 import imthread
 
 ap = argparse.ArgumentParser()
-ap.add_argument("-i", "--image", required=True,
-    help="path to input image")
 ap.add_argument("-a", "--augment", required=False, default=10,
     help="number of augmented images to generate for training")
 args = vars(ap.parse_args())
