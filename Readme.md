@@ -10,7 +10,7 @@ The main concept is, we will use Keras data augmentation API to generate pseudo 
 
 like any other tutorials we are not going to make any dedicated colab notebook, instead we will just git clone this repository on colab and do our stuff.
 
-**Start Here** [Colab Notebook](http://)
+**Start Here** [Colab Notebook](https://colab.research.google.com/github/imneonizer/face-app/blob/master/face_app.ipynb)
 
 ### Working Output
 
