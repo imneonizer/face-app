@@ -10,7 +10,7 @@ The main concept is, we will use Keras data augmentation API to generate pseudo 
 
 like any other tutorials we are not going to make any dedicated colab notebook, instead we will just git clone this repository on colab and do our stuff.
 
-**Start Here** [Colab Notebook](https://colab.research.google.com/github/imneonizer/face-app/blob/master/face_app.ipynb)
+**Start Here** [Colab Notebook](http://)
 
 ### Working Output
 
@@ -29,3 +29,5 @@ This was the final output when i was working on the project.
 - Hardware accelerator
 
 ![runtime1](Docs/2.png)
+
+Later you can use ``test_model.py`` to recognize faces in images / videos, currently it is written for images. don't forget to have a look to this awesome library [imstream](https://github.com/imneonizer/imstream) for high fps video capturing.
