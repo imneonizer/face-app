@@ -31,3 +31,6 @@ This was the final output when i was working on the project.
 ![runtime1](Docs/2.png)
 
 Later you can use ``test_model.py`` to recognize faces in images / videos, currently it is written for images. don't forget to have a look at this awesome library [imstream](https://github.com/imneonizer/imstream) for high fps video capturing.
+
+#### Resources
+[Face Applications](https://www.pyimagesearch.com/category/faces/)
