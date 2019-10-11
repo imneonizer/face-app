@@ -1,0 +1,8 @@
+opencv-contrib-python
+numpy
+keras
+tensorflow
+imutils
+imthread
+dlib
+face_recognition
